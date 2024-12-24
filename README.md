@@ -4,7 +4,7 @@
 
 🔍 Enthusiastic about designing efficient and scalable backend systems.
 
-🌟 Currently expanding my expertise in RESTful APIs, microservices, and data structures.
+🌟 Currently expanding my expertise in RESTful APIs, Microservices, and Data Structures.
 
 📬 Let's connect: kumbharemayur75@gmail.com | https://github.com/mayur199
 
